@@ -15,3 +15,4 @@
 - запустить сайт
 ## Авторы
 - Alina Shekina - branch Ali
+- master
