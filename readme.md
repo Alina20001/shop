@@ -13,3 +13,5 @@
 - composer install
 - создать .env из example.env
 - запустить сайт
+## Авторы
+- Alina Shekina - branch Ali
